@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YouTube</string>
+    <string name="connection">conecction</string>
+    <string name="playlist">playlists</string>
+    <string name="try_again">again</string>
+    <string name="video_series">video</string>
+</resources>
